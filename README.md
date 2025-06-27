@@ -3,7 +3,7 @@
 # 🧠 Solana Meme Copy Trading Bot
 
 Ultra-fast on-chain sniper using Jupiter, private RPC, and Telegram API.
-[🔗 Website](https://cryptokingmax.com) | [📨 Telegram](https://t.me/cryptokingmax)
+[🔗 Website](https://cryptokingmax.com) | [📨 Telegram](https://t.me/cryptokingmax0)
 
 ![Solana](https://img.shields.io/badge/solana-mainnet-purple?logo=solana)
 ![Speed](https://img.shields.io/badge/speed-ultra_optimized-brightgreen)
@@ -107,7 +107,7 @@ node bot.js
 
 ## 📞 Contact & Support
 
-📨 Telegram: [@cryptokingmax](https://t.me/cryptokingmax)
+📨 Telegram: [@cryptokingmax](https://t.me/cryptokingmax0)
 🌍 Website: [cryptokingmax.com](https://cryptokingmax.com)
 
 ---
